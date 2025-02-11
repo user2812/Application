@@ -1,6 +1,0 @@
-bs4 == 4.13.3
-requests == 2.32.3
-pandas == 2.2.3
-Streamlit== 1.42.0
-os == 3.10.11
-
